@@ -1,1 +1,1 @@
-Each script here is on input and output of shell permissions
+Each script here is on input and output of shell permissions on ALX
